@@ -1,0 +1,272 @@
+@media(min-width:320px) and (max-width:575px) {
+
+    #mynav ul li > a {
+        text-align: center;
+        margin: 15px 10px 0 10px;
+
+    }
+
+    #mynav {
+        background: #f1f1f1;
+
+    }
+
+    .menu_button {
+        display: none;
+    }
+
+    .banner_content {
+        margin: 143px 0 90px 0;
+    }
+
+    .banner_img {
+        display: none;
+    }
+
+    .input {
+        width: 70%;
+        margin: 14px 0 0 20px;
+        display: block;
+    }
+
+    .submit_button {
+        display: inline-block;
+        overflow: hidden;
+        margin: 14px 0 0 20px;
+    }
+
+    .submit_button button {
+        display: inline-block;
+
+    }
+
+    .banner_footer {
+
+        box-shadow: none;
+    }
+
+    .dddd {
+        text-align: center;
+        padding: 15px 0;
+    }
+
+    .submit_buttonn button {
+
+        margin: 18px 0;
+    }
+
+    .doller,
+    .job_item p,
+    .job_item h5 {
+        text-align: center;
+        margin: 5px 0;
+    }
+
+    .menu_buutton {
+        position: absolute;
+        bottom: -60px;
+        left: 15px;
+    }
+
+    .footer_mid {}
+
+    .one {
+        margin: 20px 0;
+    }
+
+    .foote_four .subscribe {
+
+        margin-left: 1px;
+    }
+
+    #work .booot:after {
+        display: none;
+
+    }
+
+    .worker_item {
+        margin: 20px 0;
+    }
+
+    .work_content_item h3 {
+        padding-top: -0;
+    }
+
+    .work_slider {
+        margin: 20px 0 0 0
+    }
+
+    .maon_cou:after,
+    .maon_cou:before {
+        display: none;
+    }
+
+    .root {
+        padding: 20px;
+    }
+
+}
+
+@media(min-width:576px) and (max-width:767px) {
+
+    #mynav ul li > a {
+        text-align: center;
+        margin: 15px 10px 0 10px;
+
+    }
+
+    #mynav {
+        background: #f1f1f1;
+
+    }
+
+    .menu_button {
+        display: none;
+    }
+
+    .banner_content {
+        margin: 143px 0 90px 0;
+    }
+
+    .banner_img {
+        display: none;
+    }
+
+    .input {
+        width: 70%;
+        margin: 14px 0 0 20px;
+        display: block;
+    }
+
+    .submit_button {
+        display: inline-block;
+        overflow: hidden;
+        margin: 14px 0 0 20px;
+    }
+
+    .submit_buttonn button {
+        width: 40%;
+        margin: 15px 20px;
+    }
+
+    .dddd {
+        text-align: center;
+        padding: 15px 0;
+    }
+
+    .doller,
+    .job_item p,
+    .job_item h5 {
+        text-align: center;
+        margin: 5px 0;
+    }
+
+    .one {
+        margin: 20px 0;
+    }
+
+    #work .booot:after {
+        display: none;
+
+    }
+    .worker_item{
+        margin: 20px 0;
+    }
+
+    .maon_cou:after,
+    .maon_cou:before {
+        display: none;
+    }
+
+    .root {
+        padding: 20px;
+    }
+
+    .partner {
+        padding: 19px 149px;
+
+    }
+    .menu_buutton {
+        position: absolute;
+        bottom: -60px;
+        left: 15px;
+    }
+}
+
+@media(min-width:768px) and (max-width:991px) {
+    #mynav ul li > a {
+        text-align: center;
+        margin: 15px 10px 0 10px;
+
+    }
+
+    #mynav {
+        background: #f1f1f1;
+
+    }
+
+    .menu_button {
+        display: none;
+    }
+
+    .banner_content {
+        margin: 143px 0 90px 0;
+    }
+
+    .banner_img {
+        display: none;
+    }
+
+    .submit_button {
+        display: inline-block;
+        overflow: hidden;
+        margin: 14px 0 0 20px;
+    }
+
+    .submit_buttonn button {
+        width: 50%;
+        margin: 15px 20px;
+    }
+
+    .dddd {
+        text-align: center;
+        padding: 15px 0;
+    }
+
+    .doller,
+    .job_item p,
+    .job_item h5 {
+        text-align: center;
+        margin: 5px 0;
+    }
+
+    .one {
+        margin: 20px 0;
+    }
+
+    .job_bottom_left,
+    .job_bottom_right {
+        margin: 33px 0px 0 0;
+        box-sizing: border-box;
+    }
+
+    #work .booot:after {
+        display: none;
+    }
+
+    .maon_cou:after,
+    .maon_cou:before {
+        display: none;
+    }
+
+    .root {
+        padding: 20px;
+    }
+     .partner {
+        padding: 19px 200px;
+
+    }
+
+}
+
+@media(min-width:992px) and (max-width:1199px) {}
